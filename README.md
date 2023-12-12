@@ -1,4 +1,4 @@
-# Rhythm!
+DeepTune
 
-Our final year project 2023.
+Final year project 2023
 
